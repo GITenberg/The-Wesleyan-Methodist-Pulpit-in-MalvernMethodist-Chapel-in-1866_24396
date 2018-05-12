@@ -1,0 +1,33 @@
+_repo: The-Wesleyan-Methodist-Pulpit-in-MalvernMethodist-Chapel-in-1866_24396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Punshon, William Morley
+    alias: Punshon, W. Morley (William Morley)
+    birthdate: 1824
+    deathdate: 1881
+    gutenberg_agent_id: '42560'
+    url: http://www.gutenberg.org/2009/agents/42560
+description: ''
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodist Church -- Sermons'
+- !lcc 'BX'
+tableOfContents: Preface / Knowles King -- The lively stones / W. Morley Punshon --
+  Christ's work of destruction and deliverance / John H. James -- Inconsideration
+  deplored / Joshua Priestley -- The friend whose years do not fail / W. Arthur --
+  God's controversy with man / Charles Prest -- The prophetic theme / Gervase Smith
+  -- The mind which was in Christ Jesus / George Wood.
+title: "The Wesleyan Methodist Pulpit in Malvern\r\nSermons Preached at the Opening\
+  \ Services of the Wesleyan Methodist Chapel, in 1866"
+url: http://www.gutenberg.org/ebooks/24396
