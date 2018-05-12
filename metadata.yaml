@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42560'
     url: http://www.gutenberg.org/2009/agents/42560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24396#The-Wesleyan-Methodist-Pulpit-in-MalvernMethodist-Chapel-in-1866
 gutenberg_issued: '2008-01-21'
 gutenberg_type: Text
 identifiers:
